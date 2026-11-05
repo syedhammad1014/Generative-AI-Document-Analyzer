@@ -1,0 +1,9 @@
+Generative AI and Large Language Models: Architecture and Industrial Scaling
+
+Abstract:
+In contemporary enterprise software engineering, integrating Large Language Models (LLMs) represents a paradigm shift. Moving from static rule-based systems to dynamic generative architectures enables automated document synthesis, complex classification, and interactive reasoning.
+
+Key Architectural Principles:
+1. Retrieval-Augmented Generation (RAG): Enhances generative models by retrieving verifiable context from enterprise knowledge bases before synthesis.
+2. Prompt Engineering: Designing robust input templates, system instructions, and few-shot examples to constrain output formatting.
+3. Microservice Decoupling: Wrapping AI model inference inside lightweight REST endpoints using FastAPI for scalability and minimal latency.
